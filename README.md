@@ -2,7 +2,7 @@
 
 Systemlessly adding Wickedness into your boot logo.
 
-A KernelSU Next module for the **Foxxd A67L Gen 2**.
+A KernelSU Next module for the **Foxxd A67L Gen 2**. Gen 1 version: [A67LG1-Bootsplash](https://github.com/thewickedlabs/A67LG1-Bootsplash).
 
 Replaces the power-on logo, the boot animation and the boot sound.
 
